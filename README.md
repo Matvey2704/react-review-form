@@ -1,2 +1,24 @@
-# react-review-form
-Review form with API integration (mock), validation and UI updates
+# Review Form (React + TypeScript)
+
+Небольшой проект с формой отзывов и имитацией API-запроса.
+
+## Что реализовано
+
+- Форма отправки отзывов
+- Базовая валидация
+- Loading-состояние при отправке
+- Обновление списка отзывов после создания
+- Имитация API-запроса
+
+## Стек
+
+- React
+- TypeScript
+- Vite
+- CSS
+
+## Как запустить
+
+```bash
+npm install
+npm run dev
