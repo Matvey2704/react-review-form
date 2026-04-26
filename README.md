@@ -22,3 +22,7 @@
 ```bash
 npm install
 npm run dev
+
+## Демо
+
+https://react-review-form-theta.vercel.app
